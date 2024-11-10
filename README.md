@@ -4,6 +4,3 @@
 <p>
 <p align="center"
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KRRT7&show_icons=true&locale=en" alt="kevinrodriguez777" /></p>
-
-
-<p align="center" <a href="https://www.buymeacoffee.com/KevinRodriguez777"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KevinRodriguez777" /> <p>
